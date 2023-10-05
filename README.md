@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-This a tutorial for learning React on openclassroom's web site.
+This is a tutorial for learning React on openclassroom's web site.
 
 ## Available Scripts
 
